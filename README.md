@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @furkanotuk
+- 👀 I’m interested in PHP and NodeJS
+- 📫 furkanotuk3468@gmail.com
