@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @furkanotuk
-- 👀 I’m interested in PHP and NodeJS
+- 👀 I’m interested in PHP, NodeJS and Go
 - 📫 furkanotuk3468@gmail.com
